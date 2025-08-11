@@ -1,0 +1,38 @@
+﻿@model DashboardViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Sales Dashboard</h1>
+    <canvas id="categorySalesChart" width="400" height="200" style="max-width: 100%;"></canvas>
+    <script>
+        var categorySalesCtx = document.getElementById('categorySalesChart').getContext('2d');
+        var categorySalesChart = new Chart(categorySalesCtx, {
+            type: 'bar',
+            data: {
+                labels: @Html.Raw(Json.Serialize(Model.CategorySales.Select(c => c.Category).ToList())),
+                datasets: [{
+                    label: 'Total Sales by Category',
+                    data: @Html.Raw(Json.Serialize(Model.CategorySales.Select(c => c.TotalSales).ToList())),
+                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

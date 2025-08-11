@@ -1,0 +1,31 @@
+﻿@model DashboardViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Sales Dashboard</h1>
+    <canvas id="productSalesChart" width="400" height="200" style="max-width: 100%;"></canvas>
+    <script>
+        var productSalesCtx = document.getElementById('productSalesChart').getContext('2d');
+        var productSalesChart = new Chart(productSalesCtx, {
+            type: 'pie',
+            data: {
+                labels: @Html.Raw(Json.Serialize(Model.MostPopularProducts.Select(p => p.ProductName).ToList())),
+                datasets: [{
+                    label: 'Most Popular Products',
+                    data: @Html.Raw(Json.Serialize(Model.MostPopularProducts.Select(p => p.QuantitySold).ToList())),
+                    backgroundColor: ['#FF5733', '#33FF57', '#3357FF', '#FF33A1', '#33FFFF'],
+                    borderColor: '#fff',
+                    borderWidth: 1
+                }]
+            }
+        });
+    </script>
+</body>
+</html>

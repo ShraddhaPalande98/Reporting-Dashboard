@@ -1,0 +1,31 @@
+﻿@model DashboardViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Sales Dashboard</h1>
+    <canvas id="salesTrendChart" width="400" height="200" style="max-width: 100%;"></canvas>
+    <script>
+        var salesTrendCtx = document.getElementById('salesTrendChart').getContext('2d');
+        var salesTrendChart = new Chart(salesTrendCtx, {
+            type: 'line',
+            data: {
+                labels: @Html.Raw(Json.Serialize(Model.SalesTrend.Select(t => t.Date).ToList())),
+                datasets: [{
+                    label: 'Sales Trend Over Time',
+                    data: @Html.Raw(Json.Serialize(Model.SalesTrend.Select(t => t.TotalSales).ToList())),
+                    fill: false,
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    tension: 0.1
+                }]
+            }
+        });
+    </script>
+</body>
+</html>

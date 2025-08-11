@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\views\\home\\sales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:views\\home\\sales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\views\\home\\trend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:views\\home\\trend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|c:\\users\\app.shraddha\\source\\repos\\reportingdashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF54949C-C90B-4459-889D-83DB0C4F2DB9}|ReportingDashboard.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trend.cshtml",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Views\\Home\\Trend.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Trend.cshtml",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Views\\Home\\Trend.cshtml",
+              "RelativeToolTip": "Views\\Home\\Trend.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T07:27:59.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sales.cshtml",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Views\\Home\\Sales.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Sales.cshtml",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Views\\Home\\Sales.cshtml",
+              "RelativeToolTip": "Views\\Home\\Sales.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T07:27:15.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T07:23:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:04:11.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T07:00:57.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:59:52.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "Models\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:59:18.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:57:29.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T06:55:50.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\ReportingDashboard\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T06:55:08.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
